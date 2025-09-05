@@ -1,7 +1,6 @@
 {
   "name": "foodieland",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,7 +17,8 @@
   },
   "homepage": "https://github.com/majidlive1989/Foodieland#readme",
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.12",
-    "tailwindcss": "^4.1.12"
-  }
+    "@tailwindcss/cli": "^4.1.13",
+    "tailwindcss": "^4.1.13"
+  },
+  "description": ""
 }

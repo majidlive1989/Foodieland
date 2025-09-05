@@ -1,1 +1,8 @@
 @import "tailwindcss";
+.custom-gradient {
+            background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+        }
+
+        .green-gradiant{
+            background: linear-gradient(180deg, #357355 0%, #1D483B 100%);
+        }        
